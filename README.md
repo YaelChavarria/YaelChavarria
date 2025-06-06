@@ -16,7 +16,7 @@
 - [Proyecto 3] Aprendizaje no supervisado. Se hizo una segmentación de los clientes en un conjunto de datos de acuerdo con la metodología RFM, para dividirlos de acuerdo con sus patrones de compra.
 - [Proyecto 4] SQL. Se realizó un análisis en SQL, acerca de una base de datos relacionada con el gusto de los clientes en películas y actores. Se hizo una segementación para entender los gustos de ellos.
 - [Proyecto 5] Power BI. Se hizo  un analisis la información de los casos de SARS-COV-2 o mejor conocido como COVID desde los reportes de los primeros casos y hasta 2023. Para poseterior realizar una visualización de los datos.
-  Puedes encontrar mis proyectos aquí. (git@github.com:YaelChavarria/Play-Store.git )
+  Puedes encontrar mis proyectos aquí. (https://github.com/YaelChavarria/Play-Store )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
